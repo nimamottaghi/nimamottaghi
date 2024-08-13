@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimamottaghi
-- 👀 I’m interested in programming matlab,python and later SAP2000
-- 🌱 I’m currently learning matlab
+- 👀 I’m interested in programming python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me via gmail : nimamottaghi216@gmail.com
 
